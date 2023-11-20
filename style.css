@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: #c0d3ff;
+  background: linear-gradient(rgb(86, 201, 86) , rgb(113, 183, 201));
 }
 span
 {
@@ -25,9 +25,15 @@ span
 {
   font-size:48px;
 }
-.heading
-{
+.heading{
   font-size: 18px;
   border-radius: 10px;
   letter-spacing: 10px;
+}
+label{
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
 }
